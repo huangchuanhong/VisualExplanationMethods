@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=0 python MP_MADRY.py --seed 0 --img_dir_path ./Images/teaser/ --out_path ./results --mask_init circular --mask_init_size 28 --if_save_mask_evolution 0 --if_save_plot 0 --if_save_npy 1 --num_iter 300 --blur_radius 5 --if_save_mask_evolution 1 --if_save_plot 1
