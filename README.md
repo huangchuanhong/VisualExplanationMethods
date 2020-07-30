@@ -47,6 +47,14 @@ Some visual explanation methods.
   paper url: https://arxiv.org/abs/1610.02391 <br/>
  **origin github:**
   https://github.com/kazuto1011/grad-cam-pytorch
+#### GI(Gradient\*input)、IG(Integrated Gradient)、SG(SmoothGrad)
+ **url:**
+  https://github.com/huangchuanhong/VisualExplanationMethods/blob/master/sam <br/>
+ **paper:**
+  "SAM: The Sensitivity of Attribution Methods to Hyperparameters" <br/>
+  paper url: https://arxiv.org/abs/2003.08754
+ **origin github:**
+  https://github.com/anguyen8/sam
 ### perturbation_base
 #### Lime
  **url:**
@@ -65,7 +73,7 @@ Some visual explanation methods.
   paper url: https://arxiv.org/abs/1704.03296 <br/>
  **origin github:**
   https://github.com/anguyen8/sam
-#### GI(Gradient\*input)、IG(Integrated Gradient)、SG(SmoothGrad)、SP(Sliding Path, Occlusion)
+#### SP(Sliding Path, Occlusion)
  **url:**
   https://github.com/huangchuanhong/VisualExplanationMethods/blob/master/sam <br/>
  **paper:**
