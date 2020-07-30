@@ -4,14 +4,14 @@ Some visual explanation methods.
 ### gradient_based
 #### Backpropagation:
 **Description:**
-  Only Do backward
+  Only Do backward <br/>
 **url:**
  https://github.com/huangchuanhong/VisualExplanationMethods/blob/master/grad-cam-pytorch/grad_cam.py &nbsp;  class BackPropation <br/>
 **origin github:**
  https://github.com/kazuto1011/grad-cam-pytorch
 #### Deconv
 **Description:**
- When Do backward, exchange Relu backward with Relu.
+ When Do backward, exchange Relu backward with Relu. <br/>
 **url:**
  1.https://github.com/huangchuanhong/VisualExplanationMethods/tree/master/VisualizingCNN <br/>
  2.https://github.com/huangchuanhong/VisualExplanationMethods/blob/master/grad-cam-pytorch/grad_cam.py &nbsp;  class Deconvnet <br/>
@@ -23,7 +23,7 @@ Some visual explanation methods.
  2.https://github.com/kazuto1011/grad-cam-pytorch
 #### GuidedBackPropagation
 **Description:**
- When Do backward, add a Relu after each Relu backward.
+ When Do backward, add a Relu after each Relu backward. <br/>
 **url:**
  https://github.com/huangchuanhong/VisualExplanationMethods/blob/master/grad-cam-pytorch/grad_cam.py &nbsp;  class GuidedBackPropatation <br/>
 **paper:**
