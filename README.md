@@ -3,13 +3,13 @@ Some visual explanation methods.
 ## Include: 
 ### gradient_based
 #### Deconv
-##### url
- 1. https://github.com/huangchuanhong/VisualExplanationMethods/tree/master/VisualizingCNN <br/>
- 2. https://github.com/huangchuanhong/VisualExplanationMethods/blob/master/grad-cam-pytorch/grad_cam.py &nbsp;  class Deconvnet <br/>
-##### paper
+*url:*
+ 1.https://github.com/huangchuanhong/VisualExplanationMethods/tree/master/VisualizingCNN <br/>
+ 2.https://github.com/huangchuanhong/VisualExplanationMethods/blob/master/grad-cam-pytorch/grad_cam.py &nbsp;  class Deconvnet <br/>
+*paper：*
  2014 ECCV paper "Visualizing and understanding convolutional networks" <br/>
  paper url: https://arxiv.org/abs/1311.2901
- **origin github** 
+*origin github：*
  https://github.com/huybery/VisualizingCNN
 #### CAM(Class Activation Map)
  url: https://github.com/huangchuanhong/VisualExplanationMethods/tree/master/CAM <br/>
