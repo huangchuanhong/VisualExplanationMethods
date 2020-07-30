@@ -52,7 +52,7 @@ Some visual explanation methods.
   https://github.com/huangchuanhong/VisualExplanationMethods/blob/master/sam <br/>
  **paper:**
   "SAM: The Sensitivity of Attribution Methods to Hyperparameters" <br/>
-  paper url: https://arxiv.org/abs/2003.08754
+  paper url: https://arxiv.org/abs/2003.08754 <br/>
  **origin github:**
   https://github.com/anguyen8/sam
 ### perturbation_base
@@ -78,7 +78,7 @@ Some visual explanation methods.
   https://github.com/huangchuanhong/VisualExplanationMethods/blob/master/sam <br/>
  **paper:**
   "SAM: The Sensitivity of Attribution Methods to Hyperparameters" <br/>
-  paper url: https://arxiv.org/abs/2003.08754
+  paper url: https://arxiv.org/abs/2003.08754 <br/>
  **origin github:**
   https://github.com/anguyen8/sam
 ### SAM
@@ -86,6 +86,6 @@ Some visual explanation methods.
   https://github.com/huangchuanhong/VisualExplanationMethods/blob/master/sam <br/>
  **paper:**
   "SAM: The Sensitivity of Attribution Methods to Hyperparameters" <br/>
-  paper url: https://arxiv.org/abs/2003.08754
+  paper url: https://arxiv.org/abs/2003.08754 <br/>
  **origin github:**
   https://github.com/anguyen8/sam
