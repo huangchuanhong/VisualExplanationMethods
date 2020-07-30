@@ -17,7 +17,7 @@ Some visual explanation methods.
  2.https://github.com/huangchuanhong/VisualExplanationMethods/blob/master/grad-cam-pytorch/grad_cam.py &nbsp;  class Deconvnet <br/>
 **paper:**
  2014 ECCV paper "Visualizing and understanding convolutional networks" <br/>
- paper url: https://arxiv.org/abs/1311.2901
+ paper url: https://arxiv.org/abs/1311.2901 <br/>
 **origin github**
  1.https://github.com/huybery/VisualizingCNN <br/>
  2.https://github.com/kazuto1011/grad-cam-pytorch
@@ -28,7 +28,7 @@ Some visual explanation methods.
  https://github.com/huangchuanhong/VisualExplanationMethods/blob/master/grad-cam-pytorch/grad_cam.py &nbsp;  class GuidedBackPropatation <br/>
 **paper:**
  "Striving for simplicity: The All Convolutional net" <br/>
- paper url: https://arxiv.org/abs/1412.6806
+ paper url: https://arxiv.org/abs/1412.6806 <br/>
 **origin github:**
  https://github.com/kazuto1011/grad-cam-pytorch
 #### CAM(Class Activation Map)
